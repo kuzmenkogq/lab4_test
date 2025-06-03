@@ -1,0 +1,10 @@
+# Тесты
+pytest==7.4.0
+coverage==7.4.4
+
+# Статичний аналіз
+flake8==6.1.0
+bandit==1.7.6
+
+# Хуки git (pre-commit)
+pre-commit==3.7.0
