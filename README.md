@@ -17,7 +17,7 @@
    ```bash
    python run.py
    ```
-# Lab 44
+# Lab 444
 API буде доступне за адресою:
 http://127.0.0.1:5000/generate-password
 
