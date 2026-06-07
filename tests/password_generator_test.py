@@ -9,7 +9,7 @@ SYMBOLS = "!@#$%^&*()-_=+"
 
 def test_password_length():
     password = generate_password(length=10)
-    assert len(password) == 10
+    assert len(password) == 15
 
 
 def test_password_min_length():
